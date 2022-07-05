@@ -7,4 +7,5 @@ Theme Designer   : Arlina Design
 Designer URL     : www.arlinadzgn.com
 Published URL    : www.idntheme.com
 Theme License    : Premium Version
+Edit By          : Iewil Maestro
 ```
